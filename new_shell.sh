@@ -1,3 +1,4 @@
 #!/bin/bash
 # Testdatei
-# Änderung in der ersten Datei.
+# 
+# Einfügen der 4ten Zeile
